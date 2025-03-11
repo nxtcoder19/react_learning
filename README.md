@@ -84,6 +84,23 @@ Document
 document.getElementById("title").textContent = "Hello, JavaScript!";
 ```
 
+# 🔹 Building Blocks of React
+
+- React Components
+- JSX
+- Props
+- State
+- Lifecycle Methods
+- Conditional Rendering
+- Lists and Keys
+- Context API (State Management)
+- React Router (Navigation)
+- API Calls (Fetching Data)
+- Hooks (Reusable Functions)
+- React Suspense & Lazy Loading
+- Error Boundaries
+- React Testing
+
 # 🔹 React hooks
 
 React Hooks are functions that allow you to use state and other React features in functional components. Introduced in React 16.8, they offer a more functional approach to component design.
